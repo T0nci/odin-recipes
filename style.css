@@ -1,0 +1,31 @@
+* {
+    color: rgb(128, 0, 0);
+    background-color: #DDDDDD;
+    font-family: monospace, Arial, Verdana, sans-serif;
+}
+
+body a {
+    text-decoration: none;
+    color: #009900;
+}
+
+ul {
+    list-style: square;
+}
+
+img {
+    height: 500px;
+    width: auto;
+}
+
+h1, h2 {
+    font-weight: 1000;
+}
+
+.normal-text {
+    font-size: 18px;
+}
+
+#main-header {
+    font-size: 3em;
+}
