@@ -7,3 +7,5 @@ The creation of this project includes the demonstration of all the HTML knowledg
 This website now also includes basic CSS to add a little bit of beauty to it!
 
 I hope you enjoy this simple website!
+
+Credit to Prince Photos, Engin Akyurt, Eli Velikova Maytham and Nussarus Thuantongkhum for the images from https://www.pexels.com/
